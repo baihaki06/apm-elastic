@@ -15,9 +15,10 @@ bootstrap();
 // } from 'elastic-apm-nest';
 
 // initializeAPMAgent({
-//   serviceName: '',
-//   secretToken: '',
-//   serverUrl: '',
+//   serviceName: 'apmhapijs',
+ // secretToken: 'VYpMojUjGe77Oe7HmP',
+ // serverUrl: 'https://faa6b3a5b0484f358c641362b0f5e63f.apm.us-west1.gcp.cloud.es.io:443',
+ // environment: 'production'
 // });
 
 // import { NestFactory } from '@nestjs/core';

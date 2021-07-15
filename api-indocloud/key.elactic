@@ -1,0 +1,12 @@
+#Elasticsearch enpoint
+https://i-o-optimized-deployment-e4db7f.es.us-west1.gcp.cloud.es.io:9243
+
+#kibana enpoint
+https://i-o-optimized-deployment-e4db7f.kb.us-west1.gcp.cloud.es.io:9243
+
+#apm enpoint
+https://i-o-optimized-deployment-e4db7f.apm.us-west1.gcp.cloud.es.io
+
+#CloudID
+i-o-optimized-deployment:dXMtd2VzdDEuZ2NwLmNsb3VkLmVzLmlvJGQ4ZmNhYWEyY2MwMTQ3MjlhMzU1MzU3NmM4NzYxMTZiJDNlYjZjYWE5MjkyZDRmZTY5ODQ3NzllNmQ4Y2M4MGVh
+

@@ -10,6 +10,7 @@ var apm = require('elastic-apm-node').start({
     environment: 'production'
   })
 
+// app run and success send data to kibana
 app.get('/', (req, res) => {
   res.send('Hello Apm from express')
 })

@@ -18,6 +18,7 @@ var apm = require('elastic-apm-node').start({
   server.route(routes);
 
   await server.start();
+  // app run and success senda data to kibana
   console.log(`server run di ${server.info.uri}`);
 };
 

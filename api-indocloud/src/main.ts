@@ -15,7 +15,7 @@ import {
 } from 'elastic-apm-nest';
 
 initializeAPMAgent({
-  serviceName: 'apmhapijs',
+  serviceName: 'apm-api-indo',
   secretToken: 'VYpMojUjGe77Oe7HmP',
   serverUrl:
     'https://faa6b3a5b0484f358c641362b0f5e63f.apm.us-west1.gcp.cloud.es.io:443',

@@ -11,6 +11,11 @@
     "outDir": "./dist",
     "baseUrl": "./",
     "incremental": true,
+    "paths": {
+      "elastic-apm-node": [
+        "./node_modules/elastic-apm-nest/types/elastic-apm-node/index.d.ts"
+      ]
+    }
   },
   // "paths": {
   //   "elastic-apm-node": [
